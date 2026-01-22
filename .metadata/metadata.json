@@ -1,0 +1,20 @@
+﻿{
+	"name": "1444-Flavor",
+	"id": "1444-Flavor",
+	"version": "1",
+	"supported_game_version": "1.0.*",
+	"short_description": "Submod for the 1444-Start-Date, adding additional flavor.",
+	"tags": [
+		"Gameplay"
+	],
+	"relationships": [
+		{
+			"rel_type": "dependency",
+			"id": "1444start",
+			"display_name": "1444 Start Date",
+			"resource_type": "mod",
+			"version": "*"
+		}
+	],
+	"game_custom_data": {}
+}
